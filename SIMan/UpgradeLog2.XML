@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SIMan">
+</Property><Property Name="Solution File" Value="D:\SIMan\SIMan.sln">
+</Property><Property Name="Date" Value="10 Aralık 2008 Çarşamba">
+</Property><Property Name="Time" Value="12:56">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="SIMan" Source="SIMan\SIMan.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SIMan" Source="SIMan\SIMan.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SIMan.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="SIMan.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SIMan" Source="SIMan\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="SIMan" Source="SIMan\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SIMan" Source="SIMan\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="SIMan" Source="SIMan\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SIMan" Source="SIMan\SIMan.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

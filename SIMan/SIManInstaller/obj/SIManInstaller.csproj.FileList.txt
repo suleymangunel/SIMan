@@ -1,0 +1,5 @@
+bin\Debug\SIManInstaller.dll
+bin\Debug\SIManInstaller.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SIManInstaller.dll
+obj\Debug\SIManInstaller.pdb
